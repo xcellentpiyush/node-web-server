@@ -58,3 +58,4 @@ app.listen(3000, () => {
 // git status - to get the status of each file and folder inside
 //              this repository that whether it is commited or not.
 // git add filename - by this command we are telling git that we want you to track this file once commit is done.
+// git commit -m 'Any commit message'
