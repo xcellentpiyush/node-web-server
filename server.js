@@ -77,3 +77,5 @@ app.listen(port, () => {
 // heroku keys:add - add our ssh key to heroku server
 // heroku keys (followed by our email address): remove - remove ssh key from heroku server.
 // ssh -v git@heroku.com - test connection with heroku.
+// git add . - to move from unstage to stage for commit
+// git push - to push the code to github.
