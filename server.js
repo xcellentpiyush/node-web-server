@@ -79,3 +79,7 @@ app.listen(port, () => {
 // ssh -v git@heroku.com - test connection with heroku.
 // git add . - to move from unstage to stage for commit
 // git push - to push the code to github.
+// heroku create - it deploys the code and create a brand new app in heroku and it will also add a new remote to our
+//                 git repository. We have one origin remote that belongs to github repository and now we have
+//                 heroku remote that belongs to heroku git repository.
+// git push heroku - to actually deploy the code.
