@@ -88,4 +88,4 @@ app.listen(port, () => {
 // heroku create - it deploys the code and create a brand new app in heroku and it will also add a new remote to our
 //                 git repository. We have one origin remote that belongs to github repository and now we have
 //                 heroku remote that belongs to heroku git repository.
-// git push heroku - to actually deploy the code.
+// git push heroku - to actually deploy the codee.
